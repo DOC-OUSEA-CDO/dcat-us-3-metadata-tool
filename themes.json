@@ -1,0 +1,58 @@
+[
+  {
+    "name": "agriculture",
+    "description": "data about agriculture, farming, crops, livestock, and related production"
+  },
+  {
+    "name": "commerce",
+    "description": "data related to commercial activity, businesses, markets, and the broader economy"
+  },
+  {
+    "name": "economic conditions",
+    "description": "data describing economic activity, growth, prices, production, and overall economic conditions"
+  },
+  {
+    "name": "education",
+    "description": "data about educational institutions, students, programs, attainment, and education outcomes"
+  },
+  {
+    "name": "energy",
+    "description": "data about energy production, consumption, resources, infrastructure, and markets"
+  },
+  {
+    "name": "environment",
+    "description": "data about environmental conditions, natural resources, ecosystems, and environmental impacts"
+  },
+  {
+    "name": "farming",
+    "description": "datasets helpful for farmers"
+  },
+  {
+    "name": "finance",
+    "description": "data about financial markets, financial activity, investments, and financial institutions"
+  },
+  {
+    "name": "health",
+    "description": "data about health conditions, health services, populations, and health outcomes"
+  },
+  {
+    "name": "international trade",
+    "description": "data about imports, exports, trade flows, trade policy, and international commerce"
+  },
+  {
+    "name": "labor",
+    "description": "data about employment, unemployment, wages, occupations, and the workforce"
+  },
+  {
+    "name": "population",
+    "description": "data about population size, characteristics, distribution, and demographic change"
+  },
+  {
+    "name": "science and technology",
+    "description": "data about scientific research, technological development, innovation, and standards"
+  },
+  {
+    "name": "transportation",
+    "description": "data about transportation systems, vehicles, infrastructure, travel, and movement of people or goods"
+  }
+]

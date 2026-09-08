@@ -1,0 +1,163 @@
+[
+  {
+    "bureau": "Bureau of Economic Analysis (BEA)",
+    "name": "webmaster",
+    "email": "webmaster@bea.gov",
+    "phone": "",
+    "organization": "Bureau of Economic Analysis"
+  },
+  {
+    "bureau": "Economic Development Administration (EDA)",
+    "name": "jason goodwin",
+    "email": "jgoodwin@eda.gov",
+    "phone": "",
+    "organization": "Economic Development Administration"
+  },
+  {
+    "bureau": "International Trade Administration (ITA)",
+    "name": "kimberly becht",
+    "email": "kimberly.becht@trade.gov",
+    "phone": "202-482-0420",
+    "organization": "International Trade Administration"
+  },
+  {
+    "bureau": "International Trade Administration (ITA)",
+    "name": "brooke kennedy",
+    "email": "brooke.kennedy@trade.gov",
+    "phone": "202-482-3818",
+    "organization": "International Trade Administration"
+  },
+  {
+    "bureau": "International Trade Administration (ITA)",
+    "name": "elizabeth schaefer",
+    "email": "elizabeth.schaefer@trade.gov",
+    "phone": "",
+    "organization": "International Trade Administration"
+  },
+  {
+    "bureau": "International Trade Administration (ITA)",
+    "name": "jacqueline vitello",
+    "email": "jacqueline.vitello@trade.gov",
+    "phone": "202-482-4476",
+    "organization": "International Trade Administration"
+  },
+  {
+    "bureau": "International Trade Administration (ITA)",
+    "name": "jessica huang",
+    "email": "jessica.huang@trade.gov",
+    "phone": "202-482-6387",
+    "organization": "International Trade Administration"
+  },
+  {
+    "bureau": "International Trade Administration (ITA)",
+    "name": "sally gannon",
+    "email": "sally.gannon@trade.gov",
+    "phone": "202-482-0162",
+    "organization": "International Trade Administration"
+  },
+  {
+    "bureau": "International Trade Administration (ITA)",
+    "name": "frank spector",
+    "email": "frank.spector@trade.gov",
+    "phone": "202-482-2054",
+    "organization": "International Trade Administration"
+  },
+  {
+    "bureau": "International Trade Administration (ITA)",
+    "name": "michael rollin",
+    "email": "michael.rollin@trade.gov",
+    "phone": "",
+    "organization": "International Trade Administration"
+  },
+  {
+    "bureau": "National Telecommunications and Information Administration (NTIA)",
+    "name": "rafi goldberg",
+    "email": "rgoldberg@ntia.gov",
+    "phone": "202-482-4375",
+    "organization": "National Telecommunications and Information Administration"
+  },
+  {
+    "bureau": "National Institute of Standards and Technology (NIST)",
+    "name": "gretchen greene",
+    "email": "gretchen.greene@nist.gov",
+    "phone": "301-975-6733",
+    "organization": "National Institute of Standards and Technology"
+  },
+  {
+    "bureau": "National Institute of Standards and Technology (NIST)",
+    "name": "ian soboroff",
+    "email": "ian.soboroff@nist.gov",
+    "phone": "301-975-3987",
+    "organization": "National Institute of Standards and Technology"
+  },
+  {
+    "bureau": "National Institute of Standards and Technology (NIST)",
+    "name": "judah levine",
+    "email": "judah.levine@nist.gov",
+    "phone": "303-497-3903",
+    "organization": "National Institute of Standards and Technology"
+  },
+  {
+    "bureau": "National Institute of Standards and Technology (NIST)",
+    "name": "richard ricker",
+    "email": "richard.ricker@nist.gov",
+    "phone": "301-975-6023",
+    "organization": "National Institute of Standards and Technology"
+  },
+  {
+    "bureau": "National Institute of Standards and Technology (NIST)",
+    "name": "william f. guthrie",
+    "email": "william.guthrie@nist.gov",
+    "phone": "301-975-2854",
+    "organization": "National Institute of Standards and Technology"
+  },
+  {
+    "bureau": "United States Patent and Trademark Office (USPTO)",
+    "name": "christopher leithiser",
+    "email": "chris.leithiser@uspto.gov",
+    "phone": "",
+    "organization": "United States Patent and Trademark Office"
+  },
+  {
+    "bureau": "United States Patent and Trademark Office (USPTO)",
+    "name": "fernando boccanera",
+    "email": "fernando.boccanera@uspto.gov",
+    "phone": "",
+    "organization": "United States Patent and Trademark Office"
+  },
+  {
+    "bureau": "United States Patent and Trademark Office (USPTO)",
+    "name": "trademark assistance center",
+    "email": "trademarkassistancecenter@uspto.gov",
+    "phone": "",
+    "organization": "United States Patent and Trademark Office"
+  },
+  {
+    "bureau": "United States Patent and Trademark Office (USPTO)",
+    "name": "nicholas pairolero",
+    "email": "nicholas.pairolero@uspto.gov",
+    "phone": "",
+    "organization": "United States Patent and Trademark Office"
+  },
+  {
+    "bureau": "United States Census Bureau",
+    "name": "current population survey office",
+    "email": "dsd.cps@census.gov",
+    "phone": "",
+    "organization": "United States Census Bureau"
+  },
+  {
+    "bureau": "United States Census Bureau",
+    "name": "american community survey office",
+    "email": "acso.users.support@census.gov",
+    "phone": "",
+    "organization": "United States Census Bureau"
+  },
+  {
+    "bureau": "United States Census Bureau",
+    "name": "census bureau call center",
+    "email": "",
+    "phone": "1-800-923-8282",
+    "organization": "United States Census Bureau"
+  }
+]

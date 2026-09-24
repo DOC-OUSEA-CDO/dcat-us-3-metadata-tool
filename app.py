@@ -440,14 +440,6 @@ BUREAUS = {
         "homepage": "https://www.bis.gov/"
     },
 
-    "Bureau of Labor Statistics": {
-        "publisher": "Bureau of Labor Statistics",
-        "identifier_code": "BLS",
-        "bureauCode": ["006:04"],
-        "programCode": ["006:000"],
-        "homepage": "https://www.bls.gov/"
-    },
-
     "Bureau of the Census": {
         "publisher": "United States Census Bureau",
         "identifier_code": "CEN",
